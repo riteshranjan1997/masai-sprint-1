@@ -12,7 +12,7 @@
         .logo {
             width: 20%;
             height: 100%;
-            background-image: url(C:/Users/rites/Desktop/project/resources/bookshelf_logo.png);
+            background-image: url(../resources/bookshelf_logo.png);
             background-size: cover;
             float: left;
         }
@@ -32,7 +32,7 @@
         .search_icon {
             width: 3%;
             height: 50%;
-            background-image: url(C:/Users/rites/Desktop/project/resources/search_icon_low_size1.png);
+            background-image: url(../resources/search_icon_low_size1.png);
             background-size: cover;
             background-color: #00BCD4;
             float: left;
@@ -54,7 +54,7 @@
 
 
         .log_icon {
-            background-image: url(C:/Users/rites/Desktop/project/resources/profile_low_size.png);
+            background-image: url(../resources/profile_low_size.png);
             background-size: cover;
             width:4%;
             height: 98%;

@@ -13,7 +13,7 @@
             }
 
             .intro_div {
-                background-image: url(C:/Users/rites/Desktop/project/resources/g.jpg);
+                background-image: url(../resources/g.jpg);
 
                 height: 200%;
                 text-align: center;
@@ -21,7 +21,7 @@
             .intro_div p { max-width: 80%;margin-left: 60px;}
 
             .logo {
-                background-image: url("C:/Users/rites/Desktop/project/resources/bookshelf_verylow.png");background-size: cover; grid-area:1/1/4/2 ;
+                background-image: url("../resources/bookshelf_verylow.png");background-size: cover; grid-area:1/1/4/2 ;
         }
 
         input[type=search] {
@@ -38,13 +38,13 @@
     .search_icon {
         width: 5%;
         height: 100%;
-        background-image: url("C:/Users/rites/Desktop/project/resources/search_icon_low_size1.png");
+        background-image: url("../resources/search_icon_low_size1.png");
         background-size: cover;
         float: right;
         background-color: #00BCD4;
     }
     .log_icon {
-        background-image: url(C:/Users/rites/Desktop/project/resources/profile_verysmall.png);
+        background-image: url(../resources/profile_verysmall.png);
         background-size: cover;
         width: 15%;
         float: right;
@@ -56,7 +56,7 @@
 
         .log_div {grid-area: 1/3/4/4; height: 60px;}
 
-        .log_icon{background-image: url(C:/Users/rites/Desktop/project/resources/profile_verysmall.png);}
+        .log_icon{background-image: url(../resources/profile_verysmall.png);}
 
         .book_div>div {
             width: 60%;
@@ -72,17 +72,17 @@
             .book_div h3 {text-align: center;}
 
         .comic_div {
-            background-image: url(C:/Users/rites/Desktop/project/resources/2.jfif);
+            background-image: url(../resources/2.jfif);
         }
         .comic_div div {margin: 20px 100px;}
 
         .school_div {
-            background-image: url(C:/Users/rites/Desktop/project/resources/3.jfif);
+            background-image: url(../resources/3.jfif);
         }
         .school_div div {margin: 20px 100px;}
 
         .life_div {
-            background-image: url(C:/Users/rites/Desktop/project/resources/4.jfif);
+            background-image: url(../resources/4.jfif);
         }
         .life_div div {margin: 20px 100px;}
 
@@ -120,7 +120,7 @@
     .intro_div {
         width: 100%;
         height: 30%;
-        background-image: url(C:/Users/rites/Desktop/project/resources/self1.jpg);
+        background-image: url("../resources/self1.jpg");
         color: white;
         text-align: center;
         background-size: cover;
@@ -151,7 +151,7 @@
     }
 
     .log_icon {
-        background-image: url(C:/Users/rites/Desktop/project/resources/profile.png);
+        background-image: url(resources/profile.png);
         background-size: cover;
         width: 40%;
         float: right;
@@ -171,12 +171,12 @@
         width: 4%;
         height: 90%;
         margin-top: 8px;
-        background-image: url(C:/Users/rites/Desktop/project/resources/logo1.png);
+        background-image: url(../resources/logo1.png);
         background-size: cover;
     }
 
     .site_name {
-        background-image: url(C:/Users/rites/Desktop/project/resources/bookshelf1.png);
+        background-image: url(../resources/bookshelf1.png);
         background-size: cover;
         width: 20%;
     }
@@ -217,7 +217,7 @@
     .search_icon {
         width: 15%;
         height: 100%;
-        background-image: url(C:/Users/rites/Desktop/project/resources/search_icon_low_size1.png);
+        background-image: url(../resources/search_icon_low_size1.png);
         background-size: cover;
         float: right;
         background-color: #00BCD4;
@@ -229,19 +229,19 @@
     }
 
     .comic_div {
-        background-image: url(C:/Users/rites/Desktop/project/resources/2.jfif);
+        background-image: url(../resources/2.jfif);
         opacity: 0.9;
 
     }
 
     .school_div {
-        background-image: url(C:/Users/rites/Desktop/project/resources/3.png);
+        background-image: url(../resources/3.png);
         background-size: cover;
     }
 
 
     .life_div {
-        background-image: url(C:/Users/rites/Desktop/project/resources/4.jpg);
+        background-image: url(../resources/4.jpg);
         opacity: 0.8;
         background-size: cover;
     }
@@ -265,3 +265,4 @@
         margin-left: 10%;
     }
 }
+
